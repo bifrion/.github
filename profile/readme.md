@@ -11,4 +11,4 @@ On the topics related to
 - OS
 - Custom HW
 
-Software in this organization is released under the [**MIT License**](license.md).
+Software in this organization is released under the [**MIT License**](../licence.md).
