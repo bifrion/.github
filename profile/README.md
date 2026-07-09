@@ -7,5 +7,6 @@ On the topics related to
 - new research
 - compilers
 - system tools.
+- GPU's.
 
 Software in this organization is released under the **MIT License**.
