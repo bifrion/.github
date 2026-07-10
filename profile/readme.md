@@ -7,8 +7,10 @@ The `Bifrion Software Foundation` (BSF) provides software for the public good, a
 On the topics related to 
 - Compilers
 - System Tools
+- Algorithms
 - GPU
 - OS
 - Custom HW
+- Games
 
 Software in this organization is released under the [**MIT License**](../licence.md).
